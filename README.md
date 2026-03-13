@@ -1,6 +1,6 @@
 ## DigitalPro – Tailwind Landing Page
 
-Responsive single-page digital marketing agency landing page built with Tailwind CSS.  
+Responsive single-page digital marketing agency landing page built with Tailwind CSS. 
 Includes a fixed navbar with smooth scrolling, hero section, services, stats, team members, and a contact form.
 
 ### Tech stack
@@ -14,3 +14,6 @@ Includes a fixed navbar with smooth scrolling, hero section, services, stats, te
 1. Clone the repository:
    ```bash
    git clone https://github.com/Ahmed-RS-22/tailwind-training
+### live Demo
+```bash
+   https://ahmed-rs-22.github.io/tailwind-training/

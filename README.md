@@ -13,5 +13,4 @@ Includes a fixed navbar with smooth scrolling, hero section, services, stats, te
 
 1. Clone the repository:
    ```bash
-   git clone https://ahmed-rs-22.github.io/tailwind-training/
-   cd <your-repo>
+   git clone https://github.com/Ahmed-RS-22/tailwind-training
